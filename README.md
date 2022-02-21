@@ -1,5 +1,5 @@
 # DockerImage
-Docker Image File
+
 FROM node:latest
 
 RUN mkdir -p /app/src
